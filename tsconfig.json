@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "allowJs": true,
+    "jsx": "react-jsx",
+    "sourceMap": true,
+  },
+  "files": [
+    "src/types.d.ts",
+    "src/index.tsx"
+  ]
+}
