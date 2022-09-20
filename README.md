@@ -16,5 +16,5 @@ Or start development:
 npm run dev
 ```
 [Check my other projects](http://grom-games.com) \
-[Check my npm packages](https://www.npmjs.com/settings/capricorngaikov/packages)
+[Check my npm packages](https://www.npmjs.com/~capricorngaikov)
 
